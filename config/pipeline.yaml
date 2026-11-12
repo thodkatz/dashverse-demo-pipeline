@@ -1,0 +1,7 @@
+reference: /data/reference/transcripts.fa.gz
+threads: 4
+trim:
+  quality: 20
+  min_length: 30
+salmon:
+  libtype: A

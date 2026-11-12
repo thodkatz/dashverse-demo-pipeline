@@ -1,0 +1,9 @@
+name: base
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.11
+  - fastqc=0.12.1
+  - trim-galore=0.6.10
+  - salmon=1.10.3
+  - pandas=2.2.2
+  - pyyaml=6.0.1

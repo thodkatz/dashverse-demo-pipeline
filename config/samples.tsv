@@ -1,0 +1,3 @@
+sample	read1	read2
+ctrl_1	/data/ctrl_1_R1.fq.gz	/data/ctrl_1_R2.fq.gz
+treat_1	/data/treat_1_R1.fq.gz	/data/treat_1_R2.fq.gz
